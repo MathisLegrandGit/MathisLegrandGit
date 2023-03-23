@@ -7,9 +7,13 @@
 
 - ⚡ Fun fact **I am bilingual**
 
-<h3 align="left">Connect with me:</h3>
+### 📫 How to reach me
+
 <p align="left">
-<a href="https://linkedin.com/in/mathislegrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathislegrand" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/mathislegrand/">
+      <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
+   <a href="mathis.legrand@epitech.eu">
+        <img src="https://custom-icon-badges.demolab.com/badge/-mathis.legrand@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white"alt="Epitech"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
