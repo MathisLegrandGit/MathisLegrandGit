@@ -1,4 +1,4 @@
-<h1 align="middle">Hi **<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="20">, I'm Mathis Legrand</h1>
+<h1 align="middle">Hi <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="40">, I'm Mathis Legrand</h1>
 <h3 align="middle">A software developer studying at Epitech Lyon</h3>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=mathislegrandgit&label=Profile%20views&color=0e75b6&style=flat" alt="mathislegrandgit" /> </p>
