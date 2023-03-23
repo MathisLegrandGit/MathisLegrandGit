@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mathis Legrand</h1>
-<h3 align="center">A professional developer studying at Epitech Lyon</h3>
+<h3 align="center">A software developer studying at Epitech Lyon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathislegrandgit&label=Profile%20views&color=0e75b6&style=flat" alt="mathislegrandgit" /> </p>
 
 ### 📖 How to reach me
 
-- 🌱 I’m currently learning **C++, Python, Javascript and React**
+- 🌱 I’m currently learning: **C++, Python, Javascript and React**
 
-- ⚡️ Fluent Languages **French and English**
+- ⚡️ Fluent Languages: **French and English**
 
 ### 📫 How to reach me
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/mathislegrand/">
-      <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
-   <a href="mathis.legrand@epitech.eu">
-        <img src="https://custom-icon-badges.demolab.com/badge/-mathis.legrand@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white"alt="Epitech"/></a>
+<br/>
+   <p align="left">
+      <a href="https://www.linkedin.com/in/mathislegrand/">
+         <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
+      <a href="mathis.legrand@epitech.eu">
+           <img src="https://custom-icon-badges.demolab.com/badge/-mathis.legrand@epitech.eu-red?style=for-the-                     badge&logo=mention&logoColor=white"alt="Epitech"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
