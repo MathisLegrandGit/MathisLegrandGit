@@ -13,10 +13,10 @@
 
 ### 📫 How to reach me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mathislegrand/">
-     <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
-  <a href="mathis.legrand@epitech.eu">
-       <img src="https://custom-icon-badges.demolab.com/badge/-mathis.legrand@epitech.eu-red?style=for-the-                     badge&logo=mention&logoColor=white"alt="Epitech"/></a>
+   <a href="https://www.linkedin.com/in/mathislegrand/">
+      <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
+   <a href="mathis.legrand@epitech.eu">
+      <img src="https://custom-icon-badges.demolab.com/badge/-mathis.legrand@epitech.eu-red?style=for-the-                     badge&logo=mention&logoColor=white"alt="Epitech"/></a>
 </p>
 
 ### 🏁 Languages and Tools:
