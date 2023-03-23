@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathislegrandgit&label=Profile%20views&color=0e75b6&style=flat" alt="mathislegrandgit" /> </p>
 
+### 📖 How to reach me
+
 - 🌱 I’m currently learning **C++, Python, Javascript and React**
 
-- ⚡ Fun fact **I am bilingual**
+- ⚡️ Fluent Languages **French and English**
 
 ### 📫 How to reach me
 
