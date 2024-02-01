@@ -5,7 +5,7 @@
 
 ### 📖 How to reach me:
 
-- 🌱 I’m currently learning: **C++, Python, Javascript and React**
+- 🌱 I’m currently learning: **C++, Python, Javascript and React, Flutter, PHP and much more**
 
 - ⚡️ Fluent Languages: **French and English**
 
